@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.top-title{
+    width: 30%;
+    height: 50px;
+    line-height: 50px;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.top-box{
+    margin-left: 5%
+}
+
+.top-text{
+    height: 50px;
+    line-height: 50px;
+    font-size: 12px;
+}
+
+.index-title{
+    margin: 3%;
+}
+.book-table{
+    margin: 3%;
+}
+
+.header{
+    text-align: center;
+}
+
+.table-title{
+    width: 25%;
+}
+.table-body{
+    width: 50%;
+}
+.table-link{
+    width: 3%
+}
+
+.post-box{
+    margin: 3%;
+}
+.post-box-title{
+    height: 40px;
+    line-height: 40px;
+}
+
+.show-box{
+    margin: 5% 0 2% 5%;
+}
+
+.show-text{
+    height: 40px;
+    line-height: 40px;
+}
+
+.link-box{
+    margin: 3%;
+}
+
+.flash-message{
+    height: 30px;
+    line-height: 30px;
+    margin-left: 5%;
+    margin-top: 5%;
+    color: green;
+}
+
+.edit-title{
+    margin: 3%;
+}
+
+.error-box{
+    margin: 3% 0 5% 3%;
+    width: 50%;
+    height: 130px;
+    border: 2px solid red;
+}
+
+.error-title{
+    height: 30px;
+    background-color: red;
+    color: white;
+}
+
+.error-message-box{
+    height: 96px;
+    padding: 3% 0 0 3%;
+    background-color: gainsboro;
+}
+
+.error-message{
+    margin-left: 5%;
+}
